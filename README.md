@@ -1,7 +1,13 @@
 HTTP TUNNEL
 ==========
 
-A program to tunnel TCP connection through HTTP connection
+A program to tunnel TCP connection through HTTPS connection forked from khuevu/http-tunnel.
+
+I added the following features,
+
+Secure connection by replacing HTTP to HTTPS
+Secure connection by adding presharing authorization key
+Compatible with Python 3.8
 
 ## Usage: 
 
