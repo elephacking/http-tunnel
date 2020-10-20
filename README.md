@@ -1,4 +1,4 @@
-HTTP TUNNEL
+HTTPS TUNNEL
 ==========
 
 A program to tunnel TCP connection through HTTPS connection forked from khuevu/http-tunnel.
