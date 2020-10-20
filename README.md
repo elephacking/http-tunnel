@@ -5,9 +5,9 @@ A program to tunnel TCP connection through HTTPS connection forked from khuevu/h
 
 I added the following features,
 
-Secure connection by replacing HTTP to HTTPS
-Secure connection by adding presharing authorization key
-Compatible with Python 3.8
+1. Secure connection by replacing HTTP to HTTPS
+2. Secure connection by adding presharing authorization key
+3. Compatible with Python 3.8
 
 ## Usage: 
 
